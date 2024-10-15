@@ -10,3 +10,5 @@ Zhenjie Cao, Zhuo Deng, Zhicheng Yang, Jialin Yuan, Jie Ma, **Lan Ma**
 Examples of different lesion types on mammograms: (a) calcification, (b) architectural distortion (AD), (c) asymmetry (AS), (d) mass.
 
 ![Examples of different lesion types on mammograms](figures/lesion_example.png)
+
+Sample mammograms for each lesion have uploaded in [samples](https://github.com/ML-AILab/AsyDisNet/tree/main/samples)
