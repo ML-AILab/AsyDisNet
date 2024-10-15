@@ -11,4 +11,6 @@ Examples of different lesion types on mammograms: (a) calcification, (b) archite
 
 ![Examples of different lesion types on mammograms](figures/lesion_example.png)
 
-Sample mammograms for each lesion have uploaded in [samples](https://github.com/ML-AILab/AsyDisNet/tree/main/samples)
+Sample mammograms for each lesion have uploaded in [samples](https://github.com/ML-AILab/AsyDisNet/tree/main/samples).
+
+The full dataset will be released upon approval!!
